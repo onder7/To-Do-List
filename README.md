@@ -1,5 +1,5 @@
 # 📝 Todo List Uygulaması
-
+[English Version](EN-To-Do-List.md)
 Flet framework'ü kullanılarak geliştirilmiş modern ve kullanıcı dostu bir yapılacaklar listesi uygulaması.
 
 ![image](https://github.com/user-attachments/assets/c96c2b0e-c7b4-4fed-b215-9ff3e5f63b64)
