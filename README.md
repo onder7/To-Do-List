@@ -4,7 +4,7 @@ Flet framework'ü kullanılarak geliştirilmiş modern ve kullanıcı dostu bir 
 
 ![image](https://github.com/user-attachments/assets/c96c2b0e-c7b4-4fed-b215-9ff3e5f63b64)
 
-
+İndirme Linki : https://drive.google.com/file/d/16Ft3BO3V1-Cu2KCWn5zS2yGmYb6VMBVV/view?usp=sharing
 ## 🌟 Özellikler
 
 - ✨ Modern ve kullanıcı dostu arayüz
