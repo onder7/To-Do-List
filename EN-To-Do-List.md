@@ -1,5 +1,5 @@
 # 📝 Todo List Application
-
+[Türkçe Versiyon](README.md)
 A modern and user-friendly todo list application developed using the Flet framework.
 
 ## 🌟 Features
